@@ -1,0 +1,21 @@
+{
+  "name": "amminimal",
+  "displayName": "amMinimal",
+  "description": "Minimal vsc Theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "amMinimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amMinimal-color-theme.json"
+      }
+    ]
+  }
+}
