@@ -1,9 +1,5 @@
 {
 	"name": "amMinial",
-	"displayName": "amMinial",
-	"description": "Minimal VScode Theme.",
-	"version": "1.0.0",
-	"publisher": "abdirrahman",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -120,7 +116,7 @@
 		"name": "Text",
 		"scope": "variable.parameter.function",
 		"settings": {
-		  "foreground": "#fbd400"
+		  "foreground": "#e2e1de"
 		}
 	  },
 	  {
@@ -889,7 +885,7 @@
 		"name": "[VSCODE-CUSTOM] Markdown heading setext",
 		"scope": "markup.heading.setext",
 		"settings": {
-		  "foreground": "#fbd400"
+		  "foreground": "#e2e1de"
 		}
 	  },
 	  {
