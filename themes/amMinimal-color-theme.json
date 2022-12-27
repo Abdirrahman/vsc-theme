@@ -722,14 +722,14 @@
 		"name": "Support type",
 		"scope": "support.constant.font-name",
 		"settings": {
-		  "foreground": "#d3ffc4"
+		  "foreground": "#818780"
 		}
 	  },
 	  {
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#fbd400"
+		  "foreground": "#5c5555"
 		}
 	  },
 	  {
@@ -1912,7 +1912,7 @@
 	  "input.placeholderForeground": "#a6a6a6",
 	  "textLink.foreground": "#3794ff",
 	  "editor.background": "#1b1c1e",
-	  "editor.foreground": "#fbd400",
+	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#777473",
 	  "editorCursor.foreground": "#6b6a6a",
 	  "editorCursor.background": "#ffffff",
