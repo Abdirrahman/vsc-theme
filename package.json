@@ -2,12 +2,12 @@
   "name": "amminimal",
   "displayName": "amMinimal",
   "description": "Minimal vsc Theme.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "abdirrahman",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Abdirrahman/vsc-theme"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdirrahman/vsc-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
