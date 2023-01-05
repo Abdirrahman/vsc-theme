@@ -18,7 +18,7 @@
 		"name": "unison punctuation",
 		"scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
 		"settings": {
-		  "foreground": "#316d8e"
+		  "foreground": "#316D8E"
 		}
 	  },
 	  {
@@ -322,7 +322,7 @@
 		"name": "js/ts module",
 		"scope": "support.module.node,support.type.object.module,support.module.node",
 		"settings": {
-		  "foreground": "#3f82b4"
+		  "foreground": "#709cbe"
 		}
 	  },
 	  {
@@ -645,7 +645,7 @@
 		"name": "Type Name",
 		"scope": "entity.name.type",
 		"settings": {
-		  "foreground": "#3f82b4"
+		  "foreground": "#3fa88a"
 		}
 	  },
 	  {
@@ -680,7 +680,7 @@
 		"name": "Storage JS TS",
 		"scope": "token.storage",
 		"settings": {
-		  "foreground": "#c184bc"
+		  "foreground": "#ffffff"
 		}
 	  },
 	  {
@@ -722,14 +722,14 @@
 		"name": "Support type",
 		"scope": "support.constant.font-name",
 		"settings": {
-		  "foreground": "#818780"
+		  "foreground": "#f5f6f4"
 		}
 	  },
 	  {
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#5c5555"
+		  "foreground": "#dfd0d0"
 		}
 	  },
 	  {
@@ -785,7 +785,7 @@
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
-		  "foreground": "#d3ffc4"
+		  "foreground": "#d6c97f"
 		}
 	  },
 	  {
@@ -808,7 +808,7 @@
 		"name": "Selector",
 		"scope": "meta.selector",
 		"settings": {
-		  "foreground": "#c184bc"
+		  "foreground": "#9e5e95"
 		}
 	  },
 	  {
@@ -1087,7 +1087,7 @@
 		"name": "error suppression",
 		"scope": "keyword.operator.error-control.php",
 		"settings": {
-		  "foreground": "#c184bc"
+		  "foreground": "#d4250e"
 		}
 	  },
 	  {
@@ -1262,7 +1262,7 @@
 		"name": "ts primitive/builtin types",
 		"scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
 		"settings": {
-		  "foreground": "#3f82b4"
+		  "foreground": "#8fbac5"
 		}
 	  },
 	  {
@@ -1914,9 +1914,9 @@
 	  "editor.background": "#1b1c1e",
 	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#777473",
-	  "editorCursor.foreground": "#6b6a6a",
+	  "editorCursor.foreground": "#ffffff",
 	  "editorCursor.background": "#ffffff",
-	  "editor.selectionBackground": "#264f78",
+	  "editor.selectionBackground": "#53535098",
 	  "editor.inactiveSelectionBackground": "#3a3d41",
 	  "editorWhitespace.foreground": "#e3e4e229",
 	  "editor.selectionHighlightBackground": "#6d7c8a87",
@@ -1945,9 +1945,9 @@
 	  "editor.foldBackground": "#264f784d",
 	  "editorOverviewRuler.background": "#25252500",
 	  "editorOverviewRuler.border": "#8c2d2d4d",
-	  "editorError.foreground": "#f48771",
+	  "editorError.foreground": "#c93214",
 	  "editorError.background": "#be423c00",
-	  "editorError.border": "#ffffff00",
+	  "editorError.border": "#bb030300",
 	  "editorWarning.foreground": "#cca700",
 	  "editorWarning.background": "#A9904000",
 	  "editorWarning.border": "#ffffff00",
@@ -2024,7 +2024,7 @@
 	  "notifications.foreground": "#ffffff",
 	  "notifications.background": "#1b1c1e",
 	  "notificationToast.border": "#06060600",
-	  "notificationsErrorIcon.foreground": "#f48771",
+	  "notificationsErrorIcon.foreground": "#b23a23",
 	  "notificationsWarningIcon.foreground": "#cca700",
 	  "notificationsInfoIcon.foreground": "#75beff",
 	  "notificationCenter.border": "#00000000",
@@ -2041,7 +2041,7 @@
 	  "gitDecoration.submoduleResourceForeground": "#8db9e2",
 	  "gitDecoration.untrackedResourceForeground": "#73c991",
 	  "editorMarkerNavigation.background": "#1b1c1e",
-	  "editorMarkerNavigationError.background": "#362e2e9f",
+	  "editorMarkerNavigationError.background": "#ac17179f",
 	  "editorMarkerNavigationWarning.background": "#fffffe",
 	  "editorMarkerNavigationInfo.background": "#f0f0f078",
 	  "merge.currentHeaderBackground": "#367366",
